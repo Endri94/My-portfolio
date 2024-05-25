@@ -1,0 +1,37 @@
+@media(max-width: 555px) {
+  .logo {
+    margin-right: 0;
+  }
+  .nav-row {
+    justify-content: center;
+  }
+
+  .header {
+    min-height: unset;
+  }
+
+  .header__wrapper {
+    padding: 70px 0;
+  }
+
+  .header__title {
+    font-size: 40px;
+  }
+
+  .projects {
+    justify-content: center;
+  }
+
+  .section {
+    padding: 30px 0;
+  }
+
+  .title-1 {
+    margin-bottom: 35px;
+    font-size: 40px;
+  }
+
+  .title-2 {
+    font-size: 30px;
+  }
+}
